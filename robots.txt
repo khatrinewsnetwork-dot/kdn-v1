@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Disallow: /#admin
+Disallow: /#admin-login
+
+Sitemap: https://khatri.network/sitemap.xml
