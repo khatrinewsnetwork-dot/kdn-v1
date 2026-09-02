@@ -1,0 +1,24 @@
+{
+  "name": "Khatri Digital Network",
+  "short_name": "KDN",
+  "slogan": "One click change your life",
+  "slogan_hi": "एक क्लिक से ज़िंदगी बदलो",
+  "movement": "Khatri Jagaran Mission",
+  "founder": "Daljit Singh Khatri",
+  "also_known_as": ["Swami Daljit Kafir", "Daljit Singh Arora"],
+  "x": "https://x.com/daljitkhatri",
+  "whatsapp": "https://wa.me/14372303338",
+  "phone": "+1-437-230-3338",
+  "email": ["khatrinewsnetwork@gmail.com"],
+  "status": "phase_1_build",
+  "public_launch_date": null,
+  "not_affiliated": ["xAI", "OpenAI", "ChatGPT", "Google"],
+  "doors": [
+    {"id": "kitchen", "name": "Guru Nanak Kitchen", "url": "https://guru-nanak-kitchen.grok.me/"},
+    {"id": "konnect", "name": "Khatri Konnect", "url": "https://khatri-konnect.grok.me/"},
+    {"id": "aid", "name": "Khatri Aid", "url": "https://khatri-aid.grok.me/"},
+    {"id": "news", "name": "KNN", "url": "https://khatrinewsnetworks.grok.me/"},
+    {"id": "neta", "name": "My Neta", "url": "https://myneta.grok.me/"}
+  ],
+  "vision_not_live": ["Nanak Coin", "guaranteed salary", "unverified global fundraising totals"]
+}
